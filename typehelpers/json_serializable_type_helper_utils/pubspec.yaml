@@ -7,11 +7,11 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  json_serializable: ^6.7.0
+  json_serializable: ^6.8.0
   analyzer: ^7.0.0
   source_helper: ^1.2.1
-  collection: ^1.15.0
+  collection: ^1.19.0
   source_gen: ^2.0.0
 
 dev_dependencies:
-  lints: ^5.1.1
+  lints: ^6.0.0
