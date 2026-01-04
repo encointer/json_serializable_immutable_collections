@@ -8,14 +8,14 @@ environment:
 
 dev_dependencies:
   test: ^1.24.9
-  mobx: ^2.5.0
+  mobx: ^2.6.0
   lints: ^6.0.0
 
 dependencies:
-  json_serializable: ^6.8.0
+  json_serializable: ^6.11.3
   json_annotation: ^4.9.0
-  build_runner: ^2.4.15
-  analyzer: ^7.0.0
-  source_gen: ^2.0.0
-  build: ^2.0.0
+  build_runner: ^2.10.4
+  analyzer: ^9.0.0
+  source_gen: ^4.1.1
+  build: ^4.0.3
   json_serializable_mobx_typehelpers: ^4.0.0

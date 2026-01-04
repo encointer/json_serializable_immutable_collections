@@ -22,5 +22,5 @@ dev_dependencies:
     path: ../typehelpers/json_serializable_fic_typehelpers
   json_serializable_mobx_typehelpers:
     path: ../typehelpers/json_serializable_mobx_typehelpers
-  json_serializable: ^6.8.0
+  json_serializable: ^6.11.3
   build_runner: ^2.4.15
